@@ -103,11 +103,11 @@
                 Height: "",
                 // 走马灯图片数据
                 item: [
-                    {url : require("@/img/1.jpg")},
-                    {url: require("@/img/2.jpg")},
-                    {url : require("@/img/3.png")},
-                    {url : require("@/img/4.jpg")},
-                    {url : require("@/img/5.jpg")},
+                    {url : require("@/assets/img/carousel/1.jpg")},
+                    {url: require("@/assets/img/carousel/2.jpg")},
+                    {url : require("@/assets/img/carousel/3.png")},
+                    {url : require("@/assets/img/carousel/4.jpg")},
+                    {url : require("@/assets/img/carousel/5.jpg")},
                 ]
             };
         },
